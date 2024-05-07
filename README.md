@@ -6,7 +6,7 @@
  <B>Full Stack Developer | Solving Problems with Error-Free Websites </B>
 Hey there! I'm Md Shahinur Rahman, a passionate full-stack developer with a knack for creating error-free websites and solving complex problems. With a diverse skill set and years of experience, I thrive on crafting seamless user experiences and robust solutions. My journey in the world of development has led me to explore various IT and frameworks, allowing me to adapt to the ever-evolving landscape of web development.
 
-Skills: ASP.NET MVC/MVC CORE/SQL/C#/ REACT / JS / HTML / CSS/ANGULAR/ADO.NET
+Skills: ASP.NET MVC/MVC CORE/SQL/C#/ REACT / JS / HTML / CSS/ANGULAR/ADO.NET/NODEJS
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning ASP.NET 
