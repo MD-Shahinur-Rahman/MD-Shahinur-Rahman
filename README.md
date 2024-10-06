@@ -1,4 +1,4 @@
-![Full Stack Developer](https://www.interviewbit.com/blog/wp-content/uploads/2022/04/ASP.NET-Projects-2048x1001.png)
+![MredulCoverPhoto](https://github.com/user-attachments/assets/e58265bb-b4de-4e2c-8657-d8f830aaa050)
 ### Hi there 👋, I am Md Shahinur Rahman
 #### Full Stack Developer
 
