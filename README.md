@@ -30,7 +30,7 @@ Skills: ASP.NET CORE API|ASP.NET CORE MVC|SQL|C# | ANGULAR |REACT JS | JS | HTML
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 </p>
-## 🌐 Connect with me
+# 🌐 Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mredulbdrcsjhe/" target="_blank">
@@ -42,14 +42,14 @@ Skills: ASP.NET CORE API|ASP.NET CORE MVC|SQL|C# | ANGULAR |REACT JS | JS | HTML
   
 </p>
 
-## 📍 Location
+#📍 Location
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/bangladesh.png"/>
   Dhaka, Bangladesh-1215 | UTC +06:00
 </p>
 
-## 📚 Education
+# 📚 Education
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/graduation-cap.png"/>
